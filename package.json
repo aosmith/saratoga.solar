@@ -1,23 +1,23 @@
 {
-  "name": "thingg.co",
+  "name": "saratoga.solar",
   "version": "1.0.0",
-  "description": "",
+  "description": "Saratoga Solar - Net Zero Energy Systems",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aosmith/thingg.co.git"
+    "url": "git+https://github.com/aosmith/saratoga.solar.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["solar", "energy", "heat-pump", "battery-storage"],
+  "author": "Saratoga Solar",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/aosmith/thingg.co/issues"
+    "url": "https://github.com/aosmith/saratoga.solar/issues"
   },
-  "homepage": "https://github.com/aosmith/thingg.co#readme",
+  "homepage": "https://saratoga.solar",
   "devDependencies": {
     "jsdom": "^27.0.0",
     "vitest": "^3.2.4"
